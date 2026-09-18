@@ -45,6 +45,19 @@ Multithreaded C++17 key-value server with 16-way sharded locking, a fixed worker
 </td>
 <td width="50%" valign="top">
 
+### [FastAPI AI Telemetry](https://github.com/shrutilekkala/fastapi-ai-telemetry)
+
+Privacy-safe request and model-call observability middleware with structured traces, Prometheus metrics, failure isolation, tests, and a non-root container.
+
+`Python` `FastAPI` `Prometheus` `ASGI` `Docker`
+
+**Focus:** AI infrastructure, telemetry boundaries, privacy, and reliability
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [Real-Time Collaborative Pinboard](https://github.com/shrutilekkala/realtime-collab-pinboard)
 
 Collaborative board with WebSocket synchronization across a React frontend and FastAPI backend, backed by PostgreSQL and Redis.
@@ -52,19 +65,6 @@ Collaborative board with WebSocket synchronization across a React frontend and F
 `React` `FastAPI` `WebSockets` `PostgreSQL` `Redis`
 
 **Focus:** real-time state, concurrent clients, and full-stack integration
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Cancer Survival Explorer](https://github.com/shrutilekkala/statistical-genomics-explorer)
-
-Reproducible survival-analysis system using public TCGA-PAAD data, Kaplan-Meier analysis, log-rank testing, and multivariate Cox modeling.
-
-`Python` `Survival analysis` `Bioinformatics`
-
-**Focus:** reproducible research, statistical validation, and transparent data boundaries
 
 </td>
 <td width="50%" valign="top">
