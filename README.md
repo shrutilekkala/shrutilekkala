@@ -6,20 +6,23 @@
 
 I work across the path from models and data to APIs, concurrent runtimes, observability, and production reliability.
 
+[Portfolio](https://shruti-lekkala-portfolio.vercel.app) · [Repositories](https://github.com/shrutilekkala?tab=repositories)
+
 </div>
 
 ## Engineering focus
 
 ```mermaid
 flowchart LR
-    Data[Data and models] --> Eval[Evaluation]
-    Eval --> Services[APIs and model services]
-    Services --> Runtime[Distributed execution]
+    Data[Data pipelines and ML / AI models] --> Eval[Evaluation and validation]
+    Eval --> Services[AI services and APIs]
+    Services --> Runtime[Streaming and distributed execution]
     Runtime --> Reliability[Testing and observability]
 
-    Data --- D[PyTorch · PySpark · SQL]
+    Data --- D[PyTorch · SageMaker · PySpark · SQL]
+    Data --- Storage[(PostgreSQL · S3 · Redshift · vector databases)]
     Services --- S[FastAPI · Spring Boot · REST · gRPC]
-    Runtime --- R[Kafka · Redis · C++ concurrency]
+    Runtime --- R[Kafka · Kinesis · Redis · C++ concurrency]
     Reliability --- O[pytest · JUnit · Prometheus · Grafana]
 ```
 
@@ -29,6 +32,8 @@ flowchart LR
 - **Product engineering:** React and TypeScript interfaces for real-time data and AI workflows
 
 ## Selected systems
+
+These repositories emphasize inspectable engineering evidence: source code, automated tests, explicit failure behavior, reproducible setup, and measured tradeoffs.
 
 <table>
 <tr>
@@ -69,13 +74,13 @@ Collaborative board with WebSocket synchronization across a React frontend and F
 </td>
 <td width="50%" valign="top">
 
-### [Brain scRNA-seq Explorer](https://github.com/shrutilekkala/brain-scrna-explorer)
+### [SmartAdQuery](https://github.com/shrutilekkala/Smart-Ad-Query)
 
-Single-cell ML pipeline covering quality control, normalization, PCA, clustering, marker detection, automated annotation, and interactive exploration.
+Natural-language advertising analytics application that turns campaign questions into safe, grounded results with supporting rows, citations, confidence, and explicit limitations.
 
-`Python` `scikit-learn` `PCA` `Clustering`
+`React` `TypeScript` `FastAPI` `SQLite` `Docker`
 
-**Focus:** end-to-end ML pipelines and interpretable analysis
+**Focus:** applied AI interfaces, safe query execution, grounded analytics, and product engineering
 
 </td>
 </tr>
