@@ -2,9 +2,9 @@
 
 # Shruti Lekkala
 
-### Software Engineer building ML systems, distributed backends, and AI infrastructure
+### Software Engineer building full-stack products, AI/ML systems, distributed platforms, and backend infrastructure
 
-I work across the path from models and data to APIs, concurrent runtimes, observability, and production reliability.
+I build end-to-end systems across user interfaces, APIs, data and ML pipelines, distributed services, cloud infrastructure, observability, and production reliability.
 
 [Portfolio](https://shruti-lekkala-portfolio.vercel.app) · [Repositories](https://github.com/shrutilekkala?tab=repositories)
 
