@@ -1,17 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D1117&text=Shruti%20Lekkala&fontColor=C9FF5A&fontSize=58&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Product%20Builder&descAlignY=60&descColor=F0F3F6&animation=fadeIn" alt="Shruti Lekkala banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0D1117&text=Shruti%20Lekkala&fontColor=C9FF5A&fontSize=58&fontAlignY=42&animation=fadeIn" alt="Shruti Lekkala banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=20&duration=2800&pause=900&color=C9FF5A&center=true&vCenter=true&width=760&lines=I+turn+ambitious+ideas+into+working+systems.;Building+reliable+AI%2C+one+boundary+at+a+time.;From+thoughtful+interfaces+to+distributed+backends." alt="Animated introduction" />
 </a>
 
 <p>
+  <img src="https://img.shields.io/badge/Software%20Engineering-FF9D57?style=for-the-badge&logo=codeforces&logoColor=07090D" alt="Software Engineering" />
   <img src="https://img.shields.io/badge/Full--Stack-57E4DA?style=for-the-badge&logo=react&logoColor=07090D" alt="Full-Stack Engineering" />
   <img src="https://img.shields.io/badge/Backend-C9FF5A?style=for-the-badge&logo=fastapi&logoColor=07090D" alt="Backend Engineering" />
-  <img src="https://img.shields.io/badge/AI%20Engineering-6D5DFB?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineering" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-FF9D57?style=for-the-badge&logo=codeforces&logoColor=07090D" alt="Software Engineering" />
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-9D83FF?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI and Machine Learning" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/LLM%20Systems-151923?style=flat-square&logo=openai&logoColor=C9FF5A" alt="LLM Systems" />
+  <img src="https://img.shields.io/badge/AI%20Agents-151923?style=flat-square&logo=probot&logoColor=9D83FF" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG%20%2B%20MCP-151923?style=flat-square&logo=databricks&logoColor=57E4DA" alt="Retrieval-Augmented Generation and Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-151923?style=flat-square&logo=apachekafka&logoColor=FF9D57" alt="Distributed Systems" />
 </p>
 
 <p>
