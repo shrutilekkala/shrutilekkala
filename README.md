@@ -14,7 +14,7 @@
 
 </div>
 
-## `hello_world` 👋
+## About me
 
 I'm **Shruti**, a software engineer who builds at the intersection of **AI, backend systems, and product engineering**.
 
