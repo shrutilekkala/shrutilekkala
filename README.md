@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Full--Stack-57E4DA?style=for-the-badge&logo=react&logoColor=07090D" alt="Full-Stack Engineering" />
   <img src="https://img.shields.io/badge/Backend-C9FF5A?style=for-the-badge&logo=fastapi&logoColor=07090D" alt="Backend Engineering" />
   <img src="https://img.shields.io/badge/AI%20Engineering-6D5DFB?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-FF9D57?style=for-the-badge&logo=codeforces&logoColor=07090D" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-9D83FF?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI and Machine Learning" />
 </p>
 
 <p>
