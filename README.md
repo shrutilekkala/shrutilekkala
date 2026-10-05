@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07090D,45:6D5DFB,100:C9FF5A&text=Shruti%20Lekkala&fontColor=F8F7F2&fontSize=58&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Product%20Builder&descAlignY=60&animation=fadeIn" alt="Shruti Lekkala banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D1117&text=Shruti%20Lekkala&fontColor=C9FF5A&fontSize=58&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Product%20Builder&descAlignY=60&descColor=F0F3F6&animation=fadeIn" alt="Shruti Lekkala banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=20&duration=2800&pause=900&color=C9FF5A&center=true&vCenter=true&width=760&lines=I+turn+ambitious+ideas+into+working+systems.;Building+reliable+AI%2C+one+boundary+at+a+time.;From+thoughtful+interfaces+to+distributed+backends." alt="Animated introduction" />
@@ -126,17 +126,6 @@ flowchart LR
 - Define retries, fallbacks, approvals, and recovery as part of the design.
 - Evaluate the full path: retrieval, model output, latency, cost, and operations.
 - Leave behind reproducible setup, tests, and honest technical tradeoffs.
-
-## GitHub pulse
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shrutilekkala&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9FF5A&icon_color=9D83FF&text_color=C9D1D9&rank_icon=github" alt="Shruti's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutilekkala&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9FF5A&text_color=C9D1D9&langs_count=8" alt="Shruti's most used languages" />
-</div>
-
-<div align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=shrutilekkala&bg_color=0D1117&color=C9D1D9&line=9D83FF&point=C9FF5A&area=true&hide_border=true" alt="Shruti's contribution activity graph" />
-</div>
 
 <div align="center">
 
