@@ -1,113 +1,146 @@
 <div align="center">
 
-# Shruti Lekkala
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07090D,45:6D5DFB,100:C9FF5A&text=Shruti%20Lekkala&fontColor=F8F7F2&fontSize=58&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Product%20Builder&descAlignY=60&animation=fadeIn" alt="Shruti Lekkala banner" />
 
-### Full-Stack AI Engineer building LLM, agentic, and distributed systems
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=20&duration=2800&pause=900&color=C9FF5A&center=true&vCenter=true&width=760&lines=I+turn+ambitious+ideas+into+working+systems.;Building+reliable+AI%2C+one+boundary+at+a+time.;From+thoughtful+interfaces+to+distributed+backends." alt="Animated introduction" />
+</a>
 
-I design and ship end-to-end AI products—from React and TypeScript interfaces to APIs, RAG, MCP tool calling, agent orchestration, data and ML pipelines, cloud infrastructure, evaluation, and production observability.
-
-[Portfolio](https://shruti-lekkala-portfolio.vercel.app) · [Repositories](https://github.com/shrutilekkala?tab=repositories)
+<p>
+  <a href="https://shruti-lekkala-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-C9FF5A?style=for-the-badge&logo=vercel&logoColor=07090D" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shrutilekkala/"><img src="https://img.shields.io/badge/LinkedIn-9D83FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shrutilekkala@gmail.com"><img src="https://img.shields.io/badge/Email-151923?style=for-the-badge&logo=gmail&logoColor=C9FF5A" alt="Email" /></a>
+</p>
 
 </div>
 
-## What I build
+## `hello_world` 👋
 
-- **Full-stack AI products:** React and TypeScript interfaces, FastAPI and Spring Boot services, streaming workflows, databases, and cloud deployment
-- **LLM and agentic systems:** RAG, embeddings, MCP, tool calling, structured outputs, agent orchestration, evaluation, guardrails, and human approval
-- **Distributed backend systems:** REST and gRPC APIs, concurrency, Kafka and Kinesis streams, Redis caching, persistence, recovery, and failure isolation
-- **Production AI infrastructure:** model and data pipelines, Docker, Kubernetes, Terraform, CI/CD, tracing, metrics, privacy boundaries, and reliability engineering
+I'm **Shruti**, a software engineer who builds at the intersection of **AI, backend systems, and product engineering**.
 
-## Engineering path
+I enjoy turning fuzzy ideas into dependable software: an interface people understand, an API that behaves predictably, an AI workflow that can be evaluated, and infrastructure that tells us when something goes wrong. My work spans agentic AI, LLM applications, distributed services, real-time products, data pipelines, and developer tooling.
 
-```mermaid
-flowchart LR
-    Data[Data, retrieval, and ML models] --> Eval[Evaluation and guardrails]
-    Eval --> Agents[LLM agents, RAG, MCP, and tools]
-    Agents --> Services[Full-stack AI services and APIs]
-    Services --> Runtime[Streaming and distributed execution]
-    Runtime --> Reliability[Testing and observability]
-
-    Data --- D[PyTorch · SageMaker · PySpark · SQL · vector retrieval]
-    Services --- S[React · TypeScript · FastAPI · Spring Boot]
-    Runtime --- R[gRPC · Kafka · Kinesis · Redis · concurrency]
-    Reliability --- O[pytest · OpenTelemetry · Prometheus · Grafana]
+```python
+shruti = {
+    "building": ["AI-native products", "distributed backends", "developer infrastructure"],
+    "cares_about": ["reliability", "clear system boundaries", "useful interfaces"],
+    "currently_exploring": ["agent evaluation", "MCP", "observable AI systems"],
+    "open_to": "software and AI engineering opportunities",
+}
 ```
 
-## Selected systems
+## Tech constellation
 
-These repositories emphasize inspectable engineering evidence: source code, automated tests, explicit failure behavior, reproducible setup, and measured tradeoffs.
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js&theme=dark" alt="Python, Java, C++, TypeScript, and JavaScript" />
+
+### Product & backend
+<img src="https://skillicons.dev/icons?i=react,fastapi,spring,nodejs,postgres,redis,kafka&theme=dark" alt="React, FastAPI, Spring, Node.js, PostgreSQL, Redis, and Kafka" />
+
+### Cloud, infrastructure & ML
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,pytorch,githubactions&theme=dark" alt="AWS, Azure, GCP, Docker, Kubernetes, Terraform, PyTorch, and GitHub Actions" />
+
+</div>
+
+<details>
+<summary><b>More of my toolkit</b></summary>
+<br>
+
+`LLMs` · `RAG` · `MCP` · `Agent orchestration` · `Evaluation` · `Guardrails` · `gRPC` · `WebSockets` · `SSE` · `PySpark` · `Airflow` · `dbt` · `Snowflake` · `OpenTelemetry` · `Prometheus` · `Grafana`
+
+</details>
+
+## Selected builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [cppkv](https://github.com/shrutilekkala/distributed-key-value-store)
+### ⚡ [SmartAdQuery](https://github.com/shrutilekkala/Smart-Ad-Query)
 
-Multithreaded C++17 key-value server with 16-way sharded locking, a fixed worker pool, TTL, write-ahead persistence, crash recovery, tests, and reproducible benchmarks.
+Ask advertising questions in plain English and receive grounded results with supporting rows, citations, confidence, and explicit limitations.
 
-`C++` `POSIX sockets` `Concurrency` `CMake`
-
-**Focus:** locking, durability, protocol design, and performance tradeoffs
+`React` `TypeScript` `FastAPI` `SQLite` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-### [FastAPI AI Telemetry](https://github.com/shrutilekkala/fastapi-ai-telemetry)
+### 🔭 [FastAPI AI Telemetry](https://github.com/shrutilekkala/fastapi-ai-telemetry)
 
-Privacy-safe request and model-call observability middleware with structured traces, Prometheus metrics, failure isolation, tests, and a non-root container.
+Privacy-conscious observability across request, retrieval, and model boundaries, designed to isolate failures rather than create new ones.
 
 `Python` `FastAPI` `Prometheus` `ASGI` `Docker`
-
-**Focus:** AI infrastructure, telemetry boundaries, privacy, and reliability
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Real-Time Collaborative Pinboard](https://github.com/shrutilekkala/realtime-collab-pinboard)
+### 🧠 [cppkv](https://github.com/shrutilekkala/distributed-key-value-store)
 
-Collaborative board with WebSocket synchronization across a React frontend and FastAPI backend, backed by PostgreSQL and Redis.
+A multithreaded C++ key-value server exploring sharded locking, worker pools, TTL, persistence, crash recovery, and performance tradeoffs.
 
-`React` `FastAPI` `WebSockets` `PostgreSQL` `Redis`
-
-**Focus:** real-time state, concurrent clients, and full-stack integration
+`C++17` `POSIX sockets` `Concurrency` `CMake`
 
 </td>
 <td width="50%" valign="top">
 
-### [SmartAdQuery](https://github.com/shrutilekkala/Smart-Ad-Query)
+### 🛰️ [Collaborative Pinboard](https://github.com/shrutilekkala/realtime-collab-pinboard)
 
-Natural-language advertising analytics application that turns campaign questions into safe, grounded results with supporting rows, citations, confidence, and explicit limitations.
+A real-time visual workspace that keeps concurrent clients synchronized through WebSockets and a durable backend.
 
-`React` `TypeScript` `FastAPI` `SQLite` `Docker`
-
-**Focus:** applied AI interfaces, safe query execution, grounded analytics, and product engineering
+`React` `FastAPI` `WebSockets` `PostgreSQL` `Redis`
 
 </td>
 </tr>
 </table>
 
-## Technical toolkit
+<div align="center">
+  <a href="https://github.com/shrutilekkala?tab=repositories"><b>Explore all repositories →</b></a>
+</div>
 
-| Area | Tools and concepts |
-|---|---|
-| **Languages** | Python, Java, C++, TypeScript, JavaScript, SQL |
-| **AI and ML** | LLMs, RAG, MCP, tool calling, agent orchestration, evaluation, guardrails, PyTorch, LoRA/PEFT, embeddings, NLP |
-| **Backend systems** | FastAPI, Spring Boot, RESTful APIs, gRPC, WebSockets, SSE, Kafka, Redis, AsyncIO, concurrency |
-| **Data platforms** | PySpark, Airflow, dbt, PostgreSQL, Snowflake, vector retrieval |
-| **Infrastructure** | AWS, Azure, GCP, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD, OpenTelemetry, Prometheus, Grafana |
+## How I build
 
-## How I approach systems
+```mermaid
+flowchart LR
+    A[Useful product] --> B[Clear boundaries]
+    B --> C[AI + data workflow]
+    C --> D[Observable services]
+    D --> E[Tests + evaluation]
+    E --> F[Production confidence]
 
-1. Define failure behavior before optimizing the happy path.
-2. Validate models, agents, and APIs with repeatable regression tests.
-3. Make request, retrieval, model, retry, and recovery boundaries observable.
-4. Document architecture decisions and the tradeoffs behind them.
-5. Keep setup, test commands, benchmark methodology, and limitations reproducible.
+    style A fill:#9D83FF,stroke:#9D83FF,color:#07090D
+    style F fill:#C9FF5A,stroke:#C9FF5A,color:#07090D
+```
+
+- Start with the user decision, not the trendiest framework.
+- Define retries, fallbacks, approvals, and recovery as part of the design.
+- Evaluate the full path: retrieval, model output, latency, cost, and operations.
+- Leave behind reproducible setup, tests, and honest technical tradeoffs.
+
+## GitHub pulse
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shrutilekkala&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9FF5A&icon_color=9D83FF&text_color=C9D1D9&rank_icon=github" alt="Shruti's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutilekkala&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9FF5A&text_color=C9D1D9&langs_count=8" alt="Shruti's most used languages" />
+</div>
+
+<div align="center">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=shrutilekkala&bg_color=0D1117&color=C9D1D9&line=9D83FF&point=C9FF5A&area=true&hide_border=true" alt="Shruti's contribution activity graph" />
+</div>
 
 <div align="center">
 
-**Current focus:** full-stack agentic AI, reliable LLM systems, distributed execution, evaluation, and production observability.
+### Let’s build something useful.
+
+<i>AI systems should be impressive under real constraints—not only in a demo.</i>
+
+<br><br>
+
+![Profile views](https://komarev.com/ghpvc/?username=shrutilekkala&style=flat-square&color=9D83FF&label=PROFILE+VIEWS)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:C9FF5A,55:6D5DFB,100:07090D" alt="Footer decoration" />
 
 </div>
